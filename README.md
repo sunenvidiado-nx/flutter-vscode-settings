@@ -32,7 +32,7 @@ The extension.json file recommends extensions that provide valuable tools and fe
 
 - `MarufHassan.flutter-snippets`: Another collection of Flutter code snippets, offering a variety of snippets for different aspects of Flutter development.
 
-- `vivaxy.vscode-conventional-commits``: Helps you write conventional commits for your Flutter projects, promoting consistent and descriptive commit messages.
+- `vivaxy.vscode-conventional-commits`: Helps you write conventional commits for your Flutter projects, promoting consistent and descriptive commit messages.
 
 ## Licensing
 
