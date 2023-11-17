@@ -2,6 +2,10 @@
 
 This repository provides a collection of Visual Studio Code settings and extensions to enhance your Flutter development experience. These settings and extensions aim to improve code organization, navigation, and overall productivity.
 
+By utilizing these settings and extensions, you can streamline your Flutter development process, enhance code organization and navigation, and benefit from a more productive coding environment.
+
+Happy coding! 🧑🏼‍💻👩🏼‍💻
+
 ## Settings
 
 The settings.json file contains settings that optimize the file explorer, file nesting, and Flutter-specific configurations.
@@ -37,7 +41,3 @@ The extension.json file recommends extensions that provide valuable tools and fe
 ## Licensing
 
 This repository is licensed under the MIT License. You can find the full license text in the LICENSE file.
-
-By utilizing these settings and extensions, you can streamline your Flutter development process, enhance code organization and navigation, and benefit from a more productive coding environment.
-
-Happy coding! 🧑🏼‍💻👩🏼‍💻
