@@ -64,4 +64,4 @@ The `extension.json` file recommends extensions that provide valuable tools and 
 
 ## Licensing
 
-This repository is licensed under the MIT License. You can find the full license text in the LICENSE file.
+This repository is licensed under the [MIT License](LICENSE).
