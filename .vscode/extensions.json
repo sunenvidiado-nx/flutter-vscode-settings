@@ -1,11 +1,21 @@
 {
-  // See https://go.microsoft.com/fwlink/?LinkId=827846
-  // for the documentation about the extensions.json format
   "recommendations": [
     "dart-code.dart-code",
     "dart-code.flutter",
     "Nash.awesome-flutter-snippets",
     "MarufHassan.flutter-snippets",
-    "vivaxy.vscode-conventional-commits"
+    "vivaxy.vscode-conventional-commits",
+    "robert-brunhage.flutter-riverpod-snippets",
+    "usernamehw.remove-empty-lines",
+    "FelixAngelov.bloc",
+    "adpyke.codesnap",
+    "Google.arb-editor",
+    "mk12.better-git-line-blame",
+    "Gruntfuggly.todo-tree",
+    "PKief.material-icon-theme",
+    "LeonardSSH.vscord",
+    "redhat.vscode-yaml",
+    "fwcd.kotlin",
+    "sswg.swift-lang"
   ]
 }

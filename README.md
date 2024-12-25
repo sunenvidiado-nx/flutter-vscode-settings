@@ -4,7 +4,9 @@ This repository provides a collection of Visual Studio Code settings and extensi
 
 By utilizing these settings and extensions, you can streamline your Flutter development process, enhance code organization and navigation, and benefit from a more productive coding environment.
 
-Happy coding! 🧑🏼‍💻👩🏼‍💻
+I use [open-vsx](https://open-vsx.org/) for the extensions listed in the `extensions.json` file.
+
+Happy coding! 🧑🏻‍💻👩🏻‍💻
 
 ## Settings
 
@@ -16,9 +18,7 @@ The settings.json file contains settings that optimize the file explorer, file n
 
 - `Explorer.fileNesting.patterns`: Defines nesting rules for different file types, such as grouping Dart files together.
 
-- `Dart.flutterSdkPath`: Specifies the path to the Flutter SDK, useful for project-specific SDK versions.
-
-- `Search.exclude`: Excludes certain directories from search results, such as the .fvm directory used for Flutter version management.
+- `Search.exclude`: Excludes certain directories from search results, such as the `.fvm` directory used for Flutter version management.
 
 - `Files.watcherExclude`: Excludes specific directories from file watching to improve performance.
 
@@ -26,7 +26,7 @@ The settings.json file contains settings that optimize the file explorer, file n
 
 ## Extensions
 
-The extension.json file recommends extensions that provide valuable tools and features for Flutter development.
+The `extension.json` file recommends extensions that provide valuable tools and features for Flutter development.
 
 - `dart-code.dart-code`: Essential extension for Dart and Flutter development, offering syntax highlighting, code completion, and code formatting.
 
@@ -37,6 +37,30 @@ The extension.json file recommends extensions that provide valuable tools and fe
 - `MarufHassan.flutter-snippets`: Another collection of Flutter code snippets, offering a variety of snippets for different aspects of Flutter development.
 
 - `vivaxy.vscode-conventional-commits`: Helps you write conventional commits for your Flutter projects, promoting consistent and descriptive commit messages.
+
+- `robert-brunhage.flutter-riverpod-snippets`: A collection of Flutter code snippets for the Riverpod package.
+
+- `FelixAngelov.bloc`: Flutter extension that helps you create and manage BLoC state management in Flutter projects.
+
+- `usernamehw.remove-empty-lines`: Removes empty lines from code easily.
+
+- `adpyke.codesnap`: Take beautiful code screenshots and share them easily.
+
+- `Google.arb-editor`: A tool for managing and editing localization files in Flutter projects.
+
+- `mk12.better-git-line-blame`: A better git line blame extension for VS Code.
+
+- `Gruntfuggly.todo-tree`: A tree view for your todo items.
+
+- `PKief.material-icon-theme`: A collection of icons for your favorite programming languages.
+
+- `LeonardSSH.vscord`: An extension to broadcast what you're working on to Discord via Rich Presence.
+
+- `redhat.vscode-yaml`: YAML support for VS Code.
+
+- `fwcd.kotlin`: Kotlin support for VS Code.
+
+- `sswg.swift-lang`: Swift support for VS Code.
 
 ## Licensing
 
